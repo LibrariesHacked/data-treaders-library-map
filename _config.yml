@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
-title: Library Data Camp 2019
-description: Voyage of the Data Treader
-url: https://www.datatreaders.co.uk
+title: "Library Data Camp 2019"
+description: "Voyage of the Data Treader. Put your library on the map"
+url: "https://www.datatreaders.co.uk"
+logo: "/assets/datatreaders2.jpg"
+show_downloads: "false"
