@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Voyage of the data treader: put your library on the map!
+# Voyage of the data treader: put your library on the map
 
 [To sign up to Data Treaders 2 see our Eventbrite page here](https://datatreaders2.eventbrite.co.uk).
 
