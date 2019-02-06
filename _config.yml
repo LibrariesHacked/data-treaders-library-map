@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: "mmistakes/jekyll-theme-basically-basic"
 title: "Library Data Camp 2019"
 description: "Voyage of the Data Treader. Put your library on the map"
 url: "https://www.datatreaders.co.uk"
