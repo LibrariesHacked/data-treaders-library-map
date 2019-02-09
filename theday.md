@@ -1,6 +1,6 @@
 ---
 title: "The day"
-layout: about
+layout: page
 ---
 
 Timetable for the day
