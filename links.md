@@ -1,6 +1,7 @@
 ---
 title: "Links"
-layout: about
+layout: page
 ---
 
-Some useful links...
+Some links that may be useful on the day.
+
