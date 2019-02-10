@@ -9,10 +9,16 @@ GitHub pages site for Library Data Camp 2019.
 2. In the data folder, edit the navigation.yml file to include the new page in the navigation section at the top. For example.
 
 ```
-navigation_pages:
-  - links.md
-  - theday.md
-  - newpage.md
+- title: Home
+  url: /
+- title: The day
+  url: /theday
+- title: Links
+  url: /links
+- title: Book your place
+  url: https://datatreaders2.eventbrite.com
+- title: New page
+  url: /newpage
 ```
 
 3. Commit and push changes. It should take a couple of minutes to update.
