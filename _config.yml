@@ -1,9 +1,9 @@
 remote_theme: "mmistakes/so-simple-theme"
 
 lang: en-GB
-title: Library Data Camp 2019
+title: "Voyage of the Data Treader: Put your library on the map"
 email: info@datatreaders.co.uk
-description: "Voyage of the Data Treader: Put your library on the map"
+description: Library Data Camp 2019
 url: "https://www.datatreaders.co.uk"
 logo: /assets/logo.jpg
 search: false
