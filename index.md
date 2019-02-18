@@ -12,3 +12,9 @@ entries_layout: list
 | Twitter | [#DataTreaders](https://twitter.com/search?q=%23datatreaders) |
 
 Voyage of the Data Treader 2 is a library data camp dedicated to exploring data and open data in libraries through a mix of workshops, discussions, and data playing. Anyone interested in using data to improve library services is welcome.
+
+We are grateful to [Manchester Libraries](https://www.manchester.gov.uk/libraries) for kindly hosting this event at Manchester Central Library.
+
+#### Sponsors 
+
+This event is supported by [UKGovCamp](https://www.ukgovcamp.com/).
