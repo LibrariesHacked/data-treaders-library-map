@@ -19,4 +19,4 @@ We are grateful to [Manchester Libraries](https://www.manchester.gov.uk/librarie
 
 This event is supported by [UKGovCamp](https://www.ukgovcamp.com/).
 
-![UKGovCamp logo](https://github.com/LibrariesHacked/data-treaders-library-map/blob/master/assets/2014to16-logo.png)
+
