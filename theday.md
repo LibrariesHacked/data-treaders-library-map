@@ -14,10 +14,10 @@ Timetable for the day (draft)
 | 11.30am | Introduction to challenge - Put your library on the map | 
 | 11.40am | Unconference session 1 | 
 | 12.30pm | Lunch | 
-| 1.30pm | Unconference session 2 | 
-| 2.15pm | Break |
-| 2.30pm | Unconference session 3 | 
-| 3.15pm | Unconference session 4 | 
+| 1.15pm | Unconference session 2 | 
+| 2pm | Unconference session 3 |
+| 2.45pm | Break |
+| 3pm | Unconference session 4 | 
 | 3.45pm | Summary and look at data updates | 
 | 4pm | Finish 
 
