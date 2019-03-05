@@ -11,7 +11,7 @@ Timetable for the day (draft)
 | 10am | Introduction |
 | 10.10am | Session pitches | 
 | 10.30am | Wikidata learning session | 
-| 11.30am | Introduction to challenge - Put your library on the map | 
+| 11.30am | Extra time for challenge: put your library on the map | 
 | 11.40am | Unconference session 1 | 
 | 12.30pm | Lunch | 
 | 1.15pm | Unconference session 2 | 
