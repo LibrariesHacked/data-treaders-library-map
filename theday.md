@@ -5,7 +5,7 @@ layout: page
 
 Timetable for the day (draft) 
 
-| Time | Session |
+| Time | Room 1 |
 | :---- | :-------|
 | 9.30am | Registration |
 | 10am | Introduction |
