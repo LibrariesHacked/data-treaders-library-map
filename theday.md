@@ -3,7 +3,7 @@ title: "The day"
 layout: page
 ---
 
-Timetable for the day (draft) 
+Timetable for the day
 
 | Time | Room 1 | Room 2 |
 | :---- | :-------| :------ |
@@ -12,12 +12,12 @@ Timetable for the day (draft)
 | 10.10am | Session pitches |  | 
 | 10.30am | Wikidata learning session |  | 
 | 11.30am | Extra time for challenge: put your library on the map |  |
-| 11.40am | Unconference session 1 |  |
+| 11.40am | Open Data 101 | Visualising Library Cuts |
 | 12.30pm | Lunch |  |
-| 1.15pm | Unconference session 2 |  |
-| 2pm | Unconference session 3 | |
+| 1.15pm | SPARQL Basics | Bad data! |
+| 2pm | Data and volunteers | Wikidata and alternatives to CIPFA |
 | 2.45pm | Break | |
-| 3pm | Unconference session 4 |  |
+| 3pm | Different LMSs | Taskforce and data publishing |
 | 3.45pm | Summary and look at data updates |  |
 | 4pm | Finish |  |
 
