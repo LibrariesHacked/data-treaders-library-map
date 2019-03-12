@@ -8,8 +8,10 @@ entries_layout: list
 | When? | Monday 11th March (9:30am - 4:00pm) |
 | ---- | ------- |
 | Where? | Manchester Central Library |
-| How? | [Book your free place here](https://datatreaders2.eventbrite.com) |
+| How? | Event now completed! |
 | Twitter | [#DataTreaders](https://twitter.com/search?q=%23datatreaders) |
+
+You can now [download the #datatreaders newspaper](https://github.com/LibrariesHacked/data-treaders-library-map/raw/master/assets/DataTreaders2Newspaper.pdf).
 
 Voyage of the Data Treader 2 is a library data camp dedicated to exploring data and open data in libraries through a mix of workshops, discussions, and data playing. Anyone interested in using data to improve library services is welcome.
 
