@@ -4,7 +4,7 @@ limit: 10
 show_excerpts: true
 entries_layout: list
 ---
-
+ 
 | When? | Monday 11th March (9:30am - 4:00pm) |
 | ---- | ------- |
 | Where? | Manchester Central Library |
