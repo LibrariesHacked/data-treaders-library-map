@@ -21,5 +21,5 @@ We are grateful to [Manchester Libraries](https://www.manchester.gov.uk/librarie
 
 This event is supported by [UKGovCamp](https://www.ukgovcamp.com/) and the [Libraries Taskforce](https://www.gov.uk/government/groups/libraries-taskforce) 
 
-![UKGovCamp logo](https://github.com/LibrariesHacked/data-treaders-library-map/raw/master/assets/2014to16-logo.png)
-![Libraries Taskforce logo](https://raw.githubusercontent.com/LibrariesHacked/data-treaders-library-map/master/assets/Untitled%20design%20(24).png)
+![UKGovCamp logo](https://github.com/LibrariesHacked/data-treaders-library-map/raw/main/assets/2014to16-logo.png)
+![Libraries Taskforce logo](https://raw.githubusercontent.com/LibrariesHacked/data-treaders-library-map/main/assets/Untitled%20design%20(24).png)
